@@ -5085,6 +5085,10 @@ silent-error@^1.0.0:
   dependencies:
     debug "^2.2.0"
 
+single-spa-angular2@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/single-spa-angular2/-/single-spa-angular2-1.1.0.tgz#961eeeb81c63df51f5293ed7c68a514bd16b7f84"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
